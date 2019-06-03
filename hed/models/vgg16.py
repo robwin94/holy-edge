@@ -15,6 +15,9 @@ class Vgg16():
 
     def __init__(self, cfgs, run='training'):
 
+        # fix the seed
+        np.random.seed(3)
+
         self.cfgs = cfgs
         self.io = IO()
 
