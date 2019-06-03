@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/robin/workspace/Masterarbeit/hed_2/hed/models/hed-model-7000"
+all_model_checkpoint_paths: "/home/robin/workspace/Masterarbeit/hed_2/hed/models/hed-model-7000"
